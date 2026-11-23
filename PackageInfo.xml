@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<PackageContentInformation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" hasMicroDeployment="False">
+  <CatalogGuids>
+    <CatalogObject>8f4ff319-2fd1-45ce-98bc-b72d4631e2fd</CatalogObject>
+    <CatalogObject>cdd02314-b635-4553-b2ab-7e6e77190a0e</CatalogObject>
+  </CatalogGuids>
+  <BizAgiBizAgiversion>11.2.5.0978</BizAgiBizAgiversion>
+  <Time>2022-12-05T09:23:08.2640971-05:00</Time>
+  <Description />
+  <User>colossus</User>
+  <Project>LoanApplication</Project>
+  <DataBase>LoanApplication</DataBase>
+  <Server>DESKTOP-MLN2TRH\SQLEXPRESS01</Server>
+  <PreviousPackage xsi:nil="true" />
+  <PackageType>Process</PackageType>
+</PackageContentInformation>

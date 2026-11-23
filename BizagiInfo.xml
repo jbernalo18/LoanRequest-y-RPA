@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BIZAGIINFO">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BAInfo" type="xs:string" minOccurs="0" />
+                <xs:element name="BAValue" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BIZAGIINFO>
+    <BAInfo>898bc8c7e615323d400</BAInfo>
+    <BAValue>531</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>AdvancedDply</BAInfo>
+    <BAValue>2</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>Build</BAInfo>
+    <BAValue>509</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>Client</BAInfo>
+    <BAValue>0</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>ClientGUID</BAInfo>
+    <BAValue>00000000-0000-0000-0000-000000000000</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>CurrentVersion</BAInfo>
+    <BAValue>11.0</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>DBRevision</BAInfo>
+    <BAValue>0</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>DeleteTemporaryFiles</BAInfo>
+    <BAValue>0</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>Environment</BAInfo>
+    <BAValue>Development</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>LastChangeSet</BAInfo>
+    <BAValue>1</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>RepositoryDefinition</BAInfo>
+    <BAValue>e35966c3-a672-5a2d-b1ee-57550fb448e9</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>SP</BAInfo>
+    <BAValue>0</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>UnicodeSupport</BAInfo>
+    <BAValue>1</BAValue>
+  </BIZAGIINFO>
+  <BIZAGIINFO>
+    <BAInfo>Version</BAInfo>
+    <BAValue>11.2.5.0978</BAValue>
+  </BIZAGIINFO>
+</NewDataSet>
