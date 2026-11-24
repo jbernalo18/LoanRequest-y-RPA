@@ -2,8 +2,7 @@
 
 Documentación del flujo principal `Main` desarrollado en Automation Anywhere Community Edition (Automation 360). Debido a las limitaciones de exportación de la edición Community, la lógica se documenta a partir de la secuencia de pasos y sub-TaskBots configurados en el editor.
 
-!Flujo principal del bot Main(./img/main-flow.png)
-
+![Flujo principal del bot Main](./img/main-flow.png)
 ## Secuencia de ejecución (`Main`)
 
 1. **Step "Captura y extracción de Datos":** Ejecuta el sub-TaskBot `Captura y extracción de Datos` para obtener información faltante y capturar la tabla de divisas.
